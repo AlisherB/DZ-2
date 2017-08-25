@@ -1,0 +1,5 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\13.07.17-23.07.17\DZ-2\Task6\bin\Debug\Task6.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\13.07.17-23.07.17\DZ-2\Task6\bin\Debug\Task6.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\13.07.17-23.07.17\DZ-2\Task6\bin\Debug\Task6.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\13.07.17-23.07.17\DZ-2\Task6\obj\Debug\Task6.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\13.07.17-23.07.17\DZ-2\Task6\obj\Debug\Task6.pdb
